@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "calc2",
+    "slug": "calc2",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "calc2"
+}
